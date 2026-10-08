@@ -60,7 +60,7 @@ A requisição retorna informações como:
 
 A API foi executada localmente e validada através de uma requisição `GET` ao endpoint `/hoteis`, retornando **Status 200 OK** e os dados em formato JSON.
 
-![Resultado da API no Postman](./assets/Captura de tela de 2026-10-08 14-54-49.png)
+![Resultado da API no Postman](assets/resultado-postman.png)
 
 ---
 
